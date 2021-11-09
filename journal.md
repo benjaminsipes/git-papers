@@ -4,4 +4,4 @@
 ## Authors: Sipes B, Jakary A, Morrison M, Yang T, Tymofiyeva O
 
 # Introduction
-This is the introduction to the paper? Prosocial tendencies in childhood predict adulthood prosociality (Eisenberg et al., 2001)
+This is the introduction to the paper? Prosocial tendencies in childhood predict adulthood prosociality (Eisenberg et al., 2001). Giving provides health benefits to the giver (Moieni et al., 2006)
