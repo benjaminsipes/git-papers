@@ -4,4 +4,4 @@
 ## Authors: Sipes B, Jakary A, Morrison M, Yang T, Tymofiyeva O
 
 # Introduction
-This is the introduction to the paper?
+This is the introduction to the paper? Prosocial tendencies in childhood predict adulthood prosociality (Eisenberg et al., 2001)
